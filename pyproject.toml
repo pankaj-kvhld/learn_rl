@@ -1,0 +1,18 @@
+[project]
+name = "learn-rl"
+version = "0.1.0"
+description = "Learing RL from both Barto & Sutton and Lapan book."
+authors = [
+    {name = "pankaj.joshi.in@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "gym (>=0.26.2,<0.27.0)",
+    "pandas (>=2.2.3,<3.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
