@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "learn_rl"
+  site-url: "https://pankaj-kvhld.github.io/learn_rl"
+  description: "Learn RL from the very basics."
+  repo-branch: main
+  repo-url: "https://github.com/pankaj-kvhld/learn_rl"
